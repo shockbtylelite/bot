@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import json, os, asyncio, re
 
-BOT_TOKEN       = "MTQ4MDE2NTkzMDEwMDE5OTQyNA.GNW0fH.x1lDKZDnRDg6lolzMbkJnERv4rATjgN_PzPDPI"
+BOT_TOKEN       = "MTQ4MDE2NTkzMDEwMDE5OTQyNA.GNH3tD.CGj48aqP1Tp-SOTFKios6XbHlirY6cm5W1VzyU"
 ADMIN_ROLE_ID   = 1478445114425606388
 SUPPORT_ROLE_ID = 1480193319341396128
 DATA_FILE       = "vps_data.json"
